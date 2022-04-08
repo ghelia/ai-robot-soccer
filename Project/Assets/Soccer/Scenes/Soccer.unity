@@ -4349,7 +4349,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b92f81b98bda144f882727486dc2a572, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraId: 1
+  cameraId: 0
   canvas: {fileID: 1260779456}
   rawImage: {fileID: 1436905146}
   toioManager: {fileID: 1297201799}

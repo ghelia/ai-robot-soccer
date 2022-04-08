@@ -253,6 +253,12 @@ public class ToioManager : MonoBehaviour
         if (this.mode == M_STANDALONE)
         {
             if (blueIdx == (CUBE_NUM/2) && greenIdx == (CUBE_NUM/2)) {
+                if (this.connectType == ConnectType.Real) {
+                    for (int i = 0; i < CUBE_NUM; i++)
+                    {
+                        this.cubeObjs[i].SetActive(false);
+                    }
+                }
                 return true;
             }
             this.canvas.ShowError("接続失敗 青:" + blueIdx + "/"+(CUBE_NUM/2)+" 緑:" + greenIdx + "/"+(CUBE_NUM/2));
