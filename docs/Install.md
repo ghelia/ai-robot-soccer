@@ -37,23 +37,7 @@ Unity パッケージのバージョンは、次のとおりです。
 
 <br>
 
-## **4-1-3. AI ロボットサッカー v1.0 のインストール**
-
-「**AI ロボットサッカー**」のインストール手順は、次のとおりです。
-
-<br>
-
-(1) 「AI ロボットサッカー」のリポジトリから「ai-robot-soccer.unitypackage」 をダウンロード。
-
-(2) Unity のメニュー「Assets → Import Package → Custom Package」 で「ai-robot-soccer.unitypackage」 を選択。
-
-<br>
-
-Assets に 「Soccer」 フォルダが追加されます。
-
-<br>
-
-## **4-1-4. Unity ML-Agents Relase 18 のインストール**
+## **4-1-3. Unity ML-Agents Relase 18 のインストール**
 
 「[**Unity ML-Agents**](https://github.com/Unity-Technologies/ml-agents)」のインストール手順は、次のとおりです。
 
@@ -76,7 +60,7 @@ Packages に 「ML Agents」 フォルダが追加されます。
 
 <br>
 
-## **4-1-5. UniTask 2.0 のインストール**
+## **4-1-4. UniTask 2.0 のインストール**
 
 「[**UniTask**](https://github.com/Cysharp/UniTask)」のインストール手順は、次のとおりです。
 
@@ -94,7 +78,7 @@ https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
 
 <br>
 
-## **4-1-6. toio SDK for Unity v1.4.0 のインストール**
+## **4-1-5. toio SDK for Unity v1.4.0 のインストール**
 
 「[**toio SDK for Unity**](https://github.com/morikatron/toio-sdk-for-unity/)」のインストール手順は、次のとおりです。
 
@@ -134,7 +118,7 @@ Mac から toio を直接操作するには、「BLE プラグイン」が必要
 
 <br>
 
-## **4-1-7. OpenCV plus Unity v1.7.1 のインストール**
+## **4-1-6. OpenCV plus Unity v1.7.1 のインストール**
 
 「[**OpenCV plus Unity**](https://assetstore.unity.com/packages/tools/integration/opencv-plus-unity-85928?locale=ja-JP)」のインストール手順は、次のとおりです。
 
@@ -152,21 +136,39 @@ Assets に 「OpenCV + Unity」 フォルダが追加されます。
 
 <br>
 
-## **4-1-8. Mirror v45.2.0 のインストール**
+## **4-1-7. Mirror v45.2.0 のインストール**
 
 「[**Mirror**](https://assetstore.unity.com/packages/tools/network/mirror-129321)」のインストール手順は、次のとおりです。
 
 <br>
 
-(1) Asset Store から 「OpenCV plus Unity」 をインポート。
+(1) Mirror のリポジトリから 「Mirror-45.2.0.unitypackage」 をインポート。
 
-![Mirror](images/mirror.png)
+![Mirror v45.2.0](https://github.com/vis2k/Mirror/releases/tag/v45.2.0)
 
-※ Mirror/Examples と ScriptTemplate は省略しても省略した方がディスク容量削減できます。
+(2) Unity のメニュー「Assets → Import Package → Custom Package」 で「Mirror-45.2.0.unitypackage」 を選択。
+
+Mirror/Examples と ScriptTemplate は省略しても省略した方がディスク容量削減できます。
 
 <br>
 
 Assets に 「Mirror」 フォルダが追加されます。
+
+<br>
+
+## **4-1-8. AI ロボットサッカー v1.0 のインストール**
+
+「**AI ロボットサッカー**」のインストール手順は、次のとおりです。
+
+<br>
+
+(1) 「AI ロボットサッカー」のリポジトリから「ai-robot-soccer.unitypackage」 をダウンロード。
+
+(2) Unity のメニュー「Assets → Import Package → Custom Package」 で「ai-robot-soccer.unitypackage」 を選択。
+
+<br>
+
+Assets に 「Soccer」 フォルダが追加されます。
 
 <br>
 

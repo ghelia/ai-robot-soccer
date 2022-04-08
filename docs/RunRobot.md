@@ -28,7 +28,7 @@ toio1 個分は、レゴブロックの長辺のサイズになります。
 
 (3) Mode ボタンで「Web カメラモード」を選択し、Web カメラ位置を調整（枠線とレゴブロックの内側を揃える）。
 
-Web カメラの映像が映らない場合は、Hierarchy ウィンドウの「SoccerCamera」 の 「Camera Id」を調整してみてください。
+Web カメラの映像が映らない場合は、Hierarchy ウィンドウの「SoccerCamera」 の 「Camera Id」を 0 から 1 または 2 などに変更してみてください。
 
 ![mode3](images/mode2.png)
 
